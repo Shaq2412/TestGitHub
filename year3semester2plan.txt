@@ -1,0 +1,103 @@
+Courses: 
+COCR 1036 Ethics and Intergrity: Building Moral Competencies
+COMP 1600 Introduction to Computing Concepts 
+COMP 1601 Computer Programming I 
+FOUN 1101 Caribbean Civilisation 
+PSYC 1001 Introduction to Psychology 
+
+COCR 1043 Microsoft Office Word 2016 
+COMP 1602 Computer Programming II 
+COMP 1603 Computer Programming III 
+FOUN 1301 Law, Governance, Economy and Society 
+INFO 1601 Introduction to WWW Programming
+
+--year 2--
+COMP 2601 Computer Architecture 
+COMP 2602 Computer Networks 
+COMP 2605 Enterprise Database Systems  
+COMP 2611 Data Structures 
+
+COMP 2603 Object-Oriented Programming I 
+COMP 2604 Operating Systems 
+COMP 2606 Software Engineering I 
+FOUN 1105 Scientific and Technical Writing 
+INFO 2604 Information Systems Security 
+
+--year 3--
+COMP 3607 Object-Oriented Programming II 
+COMP 3613 Software Engineering II 
+INFO 2605 Professional Ethics and Law 
+INFO 3600 Business Information Systems
+
+
+12 credits of Level 1 core courses in Computer Science -> DONE
+COMP 1600
+COMP 1601
+COMP 1602
+COMP 1603
+ 
+12 credits of other Level 1 courses -> INCOMPLETE
+PSYC 1001
+COCR 1036
+INFO 1601
+
+18 credits of Level 2 core courses in Computer Science -> DONE
+COMP 2601
+COMP 2602
+COMP 2603
+COMP 2604
+COMP 2605
+COMP 2611 
+
+12 credits of advanced elective courses in Computer Science/Information Technology -> DONE
+COMP 2605
+INFO 2604
+COMP 3607
+COMP 3613
+
+30 credits of other advanced courses -> INCOMPLETE
+INFO 2605
+INFO 3600
+
+30-6 = 24 
+12-9 = 3
+     = 27 credits
+3 credits a course
+9 courses remaining to do 
+
+
+9 credits of Foundation courses -> DONE
+FOUN 1101
+FOUN 1301
+FOUN 1105
+
+
+
+
+Potential Schedule: 
+Monday - 8-10(info 3606) 8-12(comp 3610) 12-1(info 3608)
+Tuesday - 9-10(project) 5-7(info 3611)
+Wednesday - 10-12(info 3606) 10-12(comp 3610) 12-2(project) 4-5(info 3608)  
+Thursday - 
+
+Info 3606:
+Monday 8-10
+Wednesday 10-12
+
+Info 3608
+Monday 12-1
+Wednesday 4-5
+Thursday 8-10
+
+Info 3611
+Tuesday 5-7
+Wednesday 12-2
+
+Comp 3610
+Monday 10-12
+Tuesday 10-12
+Wednesday 10-12
+
+Project Info 3604
+Tuesday 9-10
+Wednesday 12-2// Friday 8-10
